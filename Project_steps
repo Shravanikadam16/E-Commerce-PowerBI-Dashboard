@@ -1,0 +1,18 @@
+## Project Workflow
+
+1. Cleaned dataset (removed NULLS, formatted date column)
+2. Imported data into Power BI
+3. Created relationships between tables
+4. Created DAX measures & calculated columns
+5. Designed dashboard with:
+   - KPIs (Total Sales, Profit, Orders)
+   - Bar chart (Top Products)
+   - Pie chart (Category-wise Sales)
+   - Line chart (Monthly Sales Trend)
+   - Map (Sales by Location)
+   - Slicers (Category, City, Year)
+
+## Tools Used
+- Power BI
+- Excel
+- DAX
